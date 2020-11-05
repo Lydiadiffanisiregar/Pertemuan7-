@@ -9,7 +9,7 @@ Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu dian
 
 ## PRAKTIKUM 1 - LATIHAN 1
 
-![Latihan](foto/ss2.PNG)
+![Latihan](foto/lydia.png)
 
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
