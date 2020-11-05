@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a012aab0-6395-4147-b5f1-323ce0eb8e04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Latihan1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Latihan2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Latihan3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a012aab0-6395-4147-b5f1-323ce0eb8e04" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="489">
-                <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <first_editor>
+                <caret lean-forward="true" />
               </first_editor>
               <second_editor />
             </state>
@@ -211,8 +206,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="489">
-            <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <first_editor>
+            <caret lean-forward="true" />
           </first_editor>
           <second_editor />
         </state>
